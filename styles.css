@@ -1,0 +1,26 @@
+body {
+  background-color: aliceblue;
+}
+
+div {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: aqua;
+}
+
+h1 {
+  padding: 5%;
+}
+
+input {
+  font-size: 50px;
+}
+
+button {
+  font-size: 50px;
+}
+
+h1 {
+  font-size: 50px;
+}
